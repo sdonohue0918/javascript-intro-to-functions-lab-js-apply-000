@@ -13,3 +13,6 @@ function whisper(string) {
 };
 
 whisper('HELLO');
+
+
+//3. logShout(string)
