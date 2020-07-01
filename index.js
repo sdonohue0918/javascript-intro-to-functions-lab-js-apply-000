@@ -21,3 +21,11 @@ function logShout(string) {
 };
 
 logShout('javascript');
+
+
+//4. logWhisper(string)
+function logWhisper(string) {
+  console.log(string.toLowerCase())
+};
+
+logWhisper('JAVASCRIPT'); 
