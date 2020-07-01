@@ -8,3 +8,8 @@ shout('hello');
 
 
 //2. whisper(string)
+function whisper(string) {
+    return string.toLowerCase()
+};
+
+whisper('HELLO');
