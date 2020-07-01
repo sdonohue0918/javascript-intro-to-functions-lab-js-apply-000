@@ -5,3 +5,6 @@ function shout(string) {
 };
 
 shout('hello');
+
+
+//2. whisper(string)
